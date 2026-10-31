@@ -20,8 +20,7 @@ My portfolio website includes:
 
 ## 🛠️ Technologies Used
 
-| Technology|   |
-
+| Technology|   
 |---|---|
 | HTML5 - Website structure |
 | CSS3 -Styling, layout, and responsive design |
