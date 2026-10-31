@@ -7,39 +7,45 @@ I am **Anuja Mule**, a Computer Science graduate and aspiring Data Analyst based
 
 This portfolio showcases my professional journey, technical skills, work experience, certifications, and projects.
 
+---
+
 ## 🌐 Portfolio Overview
 
-My portfolio website includes:
+- 👩‍💻 About Me
+- 💼 Professional Experience
+- 🎓 Education
+- 🛠️ Technical Skills
+- 📊 Projects
+- 📜 Certifications
+- 📬 Contact Information
 
-- 👩‍💻 **About Me:** My background, interests, and career goals.
-- 💼 **Experience:** My professional experience at Cognizant and internship experience.
-- 🎓 **Education:** My academic qualifications.
-- 🛠️ **Skills:** Technical skills, analytical abilities, and tools.
-- 📊 **Projects:** Data analytics dashboards and development projects.
-- 📬 **Contact:** My professional contact information and social profiles.
+---
 
 ## 🛠️ Technologies Used
 
-| Technology|   
-|---|---|
-| HTML5 - Website structure |
-| CSS3 -Styling, layout, and responsive design |
-| JavaScript -Interactive functionality |
+- HTML5
+- CSS3
+- JavaScript
+
+---
 
 ## 💼 Professional Experience
 
 ### 🏢 Process Executive | Cognizant
+
 📅 **June 2026 – Present**  
 📍 Hyderabad, India
 
 - 📋 Handle day-to-day process activities while maintaining accuracy and quality standards.
 - 🔍 Review and verify information according to established process guidelines.
 - 📁 Maintain process documentation and complete assigned tasks within deadlines.
-- 🤝 Collaborate with team members to support smooth workflow and resolve process-related issues.
+- 🤝 Collaborate with team members to support smooth workflows and resolve process-related issues.
 
 **Skills:** Process Management, Data Accuracy, Documentation, Communication, Problem-Solving, Team Collaboration.
 
-## 📊 Featured Projects
+---
+
+## 📊 Projects
 
 ### 1️⃣ Superstore Sales Analysis & Forecast
 
@@ -77,6 +83,8 @@ A blood donor management platform developed to connect blood donors, hospitals, 
 
 **🛠️ Tools:** React.js, Node.js, Express.js, MongoDB
 
+---
+
 ## 💻 Technical Skills
 
 - 📊 **Data Analytics:** Excel, SQL, Python
@@ -85,18 +93,24 @@ A blood donor management platform developed to connect blood donors, hospitals, 
 - 🌐 **Web Development:** HTML5, CSS3, JavaScript, React.js, Node.js
 - 🔧 **Tools:** Jupyter Notebook, VS Code, Git, GitHub, Postman
 
+---
+
 ## 🎓 Education
 
-**🎓 Bachelor of Engineering in Computer Science**
+### Bachelor of Engineering in Computer Science
 
-Guru Nanak Dev Engineering College, Bidar  
+**Guru Nanak Dev Engineering College, Bidar**  
 Visvesvaraya Technological University (VTU)  
 📅 2021 – 2025
+
+---
 
 ## 📜 Certifications
 
 - 📘 JPMorgan Chase Quantitative Research Virtual Experience – Forage
 - 📘 Data Science & Analytics Certification – HP LIFE
+
+---
 
 ## 📬 Connect With Me
 
